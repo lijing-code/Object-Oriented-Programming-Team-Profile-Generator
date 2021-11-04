@@ -1,0 +1,23 @@
+{
+  "name": "object-oriented-programming-team-profile-generator",
+  "version": "1.0.0",
+  "description": "OOP-Team-Profile-Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijing-code/Object-Oriented-Programming-Team-Profile-Generator.git"
+  },
+  "author": "Jing Li",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lijing-code/Object-Oriented-Programming-Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/lijing-code/Object-Oriented-Programming-Team-Profile-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0",
+    "jest": "^27.3.1"
+  }
+}
