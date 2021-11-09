@@ -28,7 +28,6 @@
   
   ---
   ## Credits
-  ---
   * Bootstrap for html:https://getbootstrap.com/
   ---
   ## License
