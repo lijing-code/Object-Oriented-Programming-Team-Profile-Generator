@@ -10,10 +10,9 @@
   - [Usage](#usage)
   - [Credits](#credits)
   - [License](#license)
-  - [Features](#license)
-  - [How to Contribute](#license)
-  - [Tests](#license)
-  - [Questions](#license)
+  - [How to Contribute](#how to contribute)
+  - [Tests](#tests)
+  - [Questions](#questions)
   ---
   ## Installation
   * Login your Github
@@ -25,6 +24,8 @@
 
   ## Usage
   ![Screenshot](./src/ScreenShot.png)
+
+  Walkthrough Video Link: https://drive.google.com/drive/folders/1Tm8mOaleE2Lu3ov3Ik-a3gcFgIR7A5sH
   
   ---
   ## Credits
@@ -34,8 +35,6 @@
   ## License
   This project is using MIT license:
   ![MIT](https://img.shields.io/static/v1?label=license&message=MIT&color=brightgreen&style=plastic&logo=appveyor)
-  ## Features
-  * 
 
   ## How to Contribute
   [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
