@@ -24,7 +24,7 @@
   ## Usage
   ![Screenshot](./src/ScreenShot.png)
 
-  Walkthrough Video Link: https://drive.google.com/drive/folders/1Tm8mOaleE2Lu3ov3Ik-a3gcFgIR7A5sH
+  Walkthrough Video Link: https://drive.google.com/file/d/1Zb3eAVgvzIrlOzJCDsyFzwg0WChY6Ylr/view?usp=sharing
   
   ---
   ## Credits
